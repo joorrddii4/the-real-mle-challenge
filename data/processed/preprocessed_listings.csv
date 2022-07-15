@@ -8694,7 +8694,7 @@
 10018,13921462,Brooklyn,Private room in rental unit,Private room,40.73373,-73.95794,2,1.0,1.0,1.0,80,0,1,0,1,1,1,1,0,0
 10019,13921768,Manhattan,Private room in rental unit,Private room,40.84185,-73.93679,2,1.0,1.0,1.0,45,0,0,0,1,1,1,1,0,0
 10020,13924403,Queens,Private room in rental unit,Private room,40.76099,-73.91994,1,1.0,1.0,1.0,50,0,0,0,1,1,1,1,0,0
-10021,13925864,Queens,Entire rental unit,Entire home/apt,40.76128,-73.93141,4,1.0,2.0,2.0,10,,1,0,1,1,1,1,0,0
+10021,13925864,Queens,Entire rental unit,Entire home/apt,40.76128,-73.93141,4,1.0,2.0,2.0,10,0,1,0,1,1,1,1,0,0
 10022,13926463,Queens,Private room in rental unit,Private room,40.75391,-73.91884,1,1.0,1.0,1.0,50,0,1,0,1,1,1,1,0,0
 10023,13926604,Manhattan,Private room in hostel,Private room,40.7487,-73.99577,1,1.0,1.0,1.0,75,0,0,0,1,1,1,1,0,0
 10024,13926664,Manhattan,Private room in hostel,Private room,40.74864,-73.99564,1,1.0,1.0,1.0,75,0,0,0,1,0,1,1,0,0
@@ -9553,7 +9553,7 @@
 11004,15928889,Brooklyn,Private room in rental unit,Private room,40.69297,-73.92659,1,1.5,1.0,1.0,900,3,1,0,1,1,1,1,0,0
 11005,15929281,Manhattan,Private room in rental unit,Private room,40.72666,-73.97794,2,1.0,1.0,1.0,85,0,0,0,1,1,1,1,0,0
 11006,15931762,Brooklyn,Private room in townhouse,Private room,40.69519,-73.94324,2,1.5,1.0,1.0,200,2,1,0,1,1,1,1,0,0
-11007,15932054,Queens,Private room in townhouse,Private room,40.75836,-73.92828,1,1.0,1.0,1.0,10,,1,0,1,1,1,1,0,0
+11007,15932054,Queens,Private room in townhouse,Private room,40.75836,-73.92828,1,1.0,1.0,1.0,10,0,1,0,1,1,1,1,0,0
 11008,15936167,Brooklyn,Private room in condominium (condo),Private room,40.70848,-73.94405,2,1.0,1.0,1.0,75,0,0,0,1,1,1,1,0,0
 11009,15937310,Queens,Private room in residential home,Private room,40.66705,-73.81233,1,2.0,1.0,1.0,43,0,1,0,1,1,1,1,0,1
 11010,15940176,Brooklyn,Private room in rental unit,Private room,40.71285,-73.96546,2,1.0,1.0,1.0,70,0,1,0,1,1,1,1,0,0
@@ -9669,7 +9669,7 @@
 11132,16178980,Brooklyn,Private room in rental unit,Private room,40.70018,-73.92823,2,1.0,1.0,1.0,39,0,0,0,1,1,1,1,1,0
 11133,16180645,Queens,Private room in townhouse,Private room,40.75942,-73.92634,1,1.0,1.0,1.0,42,0,1,0,1,1,1,1,0,1
 11134,16180783,Queens,Entire rental unit,Entire home/apt,40.71023,-73.87806,4,1.0,2.0,2.0,88,0,1,0,1,0,1,1,0,0
-11135,16181190,Queens,Private room in residential home,Private room,40.75897,-73.92616,1,1.0,1.0,1.0,10,,1,0,1,1,1,1,0,1
+11135,16181190,Queens,Private room in residential home,Private room,40.75897,-73.92616,1,1.0,1.0,1.0,10,0,1,0,1,1,1,1,0,1
 11136,16182780,Manhattan,Private room in rental unit,Private room,40.84178,-73.93721,2,1.0,1.0,1.0,80,0,1,0,1,1,1,1,0,0
 11137,16185252,Manhattan,Entire rental unit,Entire home/apt,40.7709,-73.98145,2,1.0,1.0,1.0,69,0,1,0,1,1,1,1,1,0
 11138,16186828,Bronx,Private room in rental unit,Private room,40.8632,-73.90496,2,1.0,1.0,1.0,80,0,0,0,0,0,0,0,0,0
@@ -10460,7 +10460,7 @@
 12038,17944219,Manhattan,Private room in rental unit,Private room,40.77214,-73.95804,2,1.0,1.0,1.0,300,2,0,0,1,1,1,1,0,0
 12039,17946985,Brooklyn,Private room in rental unit,Private room,40.68993,-73.95878,2,1.5,1.0,1.0,65,0,0,0,1,1,1,1,0,0
 12040,17951580,Brooklyn,Entire condominium (condo),Entire home/apt,40.68943,-73.93296,4,1.0,2.0,3.0,127,1,1,0,1,1,1,1,0,0
-12041,17952277,Brooklyn,Private room in rental unit,Private room,40.69979,-73.9212,2,1.0,1.0,1.0,10,,0,0,1,0,1,1,0,0
+12041,17952277,Brooklyn,Private room in rental unit,Private room,40.69979,-73.9212,2,1.0,1.0,1.0,10,0,0,0,1,0,1,1,0,0
 12042,17952472,Queens,Private room in rental unit,Private room,40.75514,-73.80452,4,1.0,2.0,2.0,114,1,0,0,1,1,1,1,0,0
 12043,17958414,Brooklyn,Entire condominium (condo),Entire home/apt,40.61787,-73.99968,5,1.0,2.0,3.0,125,1,1,0,1,1,1,1,0,0
 12044,17959888,Bronx,Entire loft,Entire home/apt,40.80867,-73.93159,4,1.0,2.0,2.0,275,2,0,0,1,1,0,1,1,0
@@ -13118,7 +13118,7 @@
 15092,22435019,Manhattan,Entire rental unit,Entire home/apt,40.80655,-73.94629,4,2.0,1.0,3.0,85,0,1,0,1,1,1,1,0,0
 15093,22435813,Brooklyn,Private room in rental unit,Private room,40.67688,-73.95327,2,1.0,1.0,1.0,150,1,1,0,0,1,1,1,0,0
 15095,22436287,Brooklyn,Entire rental unit,Entire home/apt,40.68273,-73.96073,3,1.0,1.0,1.0,108,1,1,0,1,1,1,1,0,0
-15097,22436899,Manhattan,Entire rental unit,Entire home/apt,40.77184,-73.98835,4,1.0,1.0,1.0,10,,0,0,0,0,1,1,1,0
+15097,22436899,Manhattan,Entire rental unit,Entire home/apt,40.77184,-73.98835,4,1.0,1.0,1.0,10,0,0,0,0,0,1,1,1,0
 15098,22440046,Manhattan,Private room in rental unit,Private room,40.72207,-73.9811,2,1.0,1.0,1.0,129,1,1,0,1,1,1,1,0,0
 15099,22445969,Manhattan,Entire condominium (condo),Entire home/apt,40.75057,-73.97861,2,1.0,1.0,1.0,159,1,1,0,1,1,1,1,1,0
 15100,22446079,Brooklyn,Entire rental unit,Entire home/apt,40.67458,-73.94634,2,1.0,1.0,1.0,71,0,0,0,0,1,1,1,0,0
@@ -13351,7 +13351,7 @@
 15358,22979825,Brooklyn,Private room in rental unit,Private room,40.719,-73.95275,1,1.0,1.0,1.0,75,0,1,0,0,1,1,1,0,0
 15360,22981126,Brooklyn,Private room in rental unit,Private room,40.66407,-73.93685,1,1.0,1.0,1.0,75,0,1,0,1,1,1,1,0,0
 15361,22984370,Brooklyn,Private room in condominium (condo),Private room,40.70013,-73.91272,2,1.0,1.0,1.0,75,0,1,0,1,1,1,1,1,0
-15362,22985168,Queens,Entire condominium (condo),Entire home/apt,40.76466,-73.92882,2,1.0,1.0,1.0,10,,0,0,1,1,1,1,0,0
+15362,22985168,Queens,Entire condominium (condo),Entire home/apt,40.76466,-73.92882,2,1.0,1.0,1.0,10,0,0,0,1,1,1,1,0,0
 15363,22985354,Brooklyn,Entire townhouse,Entire home/apt,40.68944,-73.93711,6,2.5,3.0,3.0,446,3,1,0,1,1,1,1,0,0
 15364,22985419,Queens,Entire residential home,Entire home/apt,40.72128,-73.75642,7,2.5,4.0,4.0,230,2,1,0,1,1,1,1,0,0
 15365,22986248,Brooklyn,Entire condominium (condo),Entire home/apt,40.66899,-73.98598,6,2.0,2.0,4.0,150,1,1,0,1,1,1,1,0,0
@@ -16842,7 +16842,7 @@
 19392,31216136,Brooklyn,Private room in loft,Private room,40.7046,-73.92206,1,1.0,1.0,1.0,60,0,0,0,1,1,1,1,0,0
 19393,31218310,Staten Island,Private room in residential home,Private room,40.56653,-74.10441,2,1.5,1.0,1.0,90,0,1,0,1,1,1,1,0,0
 19394,31219246,Brooklyn,Private room in residential home,Private room,40.68837,-73.94171,2,1.0,1.0,1.0,99,1,0,0,0,1,1,1,0,0
-19395,31219800,Manhattan,Shared room in loft,Shared room,40.74931,-73.9783,1,2.0,1.0,5.0,10,,1,0,1,1,1,1,0,0
+19395,31219800,Manhattan,Shared room in loft,Shared room,40.74931,-73.9783,1,2.0,1.0,5.0,10,0,1,0,1,1,1,1,0,0
 19396,31220573,Manhattan,Entire residential home,Entire home/apt,40.75874,-73.99205,5,1.0,2.0,3.0,840,3,1,0,1,1,1,1,0,1
 19397,31220645,Brooklyn,Entire rental unit,Entire home/apt,40.68302,-73.95942,5,2.0,2.0,2.0,400,2,1,0,1,1,1,1,1,1
 19398,31220749,Queens,Private room in rental unit,Private room,40.70464,-73.9089,1,1.0,1.0,1.0,39,0,0,0,1,1,1,1,0,0
@@ -20135,10 +20135,10 @@
 23192,38983890,Brooklyn,Entire rental unit,Entire home/apt,40.68522,-73.93657,6,2.0,2.0,3.0,250,2,1,0,1,1,1,1,0,0
 23193,38984304,Queens,Private room in rental unit,Private room,40.75571,-73.86378,1,1.0,1.0,1.0,100,1,1,0,0,1,1,1,0,0
 23195,38992289,Brooklyn,Entire loft,Entire home/apt,40.70544,-73.93542,4,1.0,2.0,2.0,200,2,0,0,1,1,1,1,1,1
-23196,38993493,Manhattan,Room in boutique hotel,Private room,40.74924,-73.98722,2,1.0,1.0,2.0,10,,1,0,1,0,1,1,1,0
-23197,38993556,Manhattan,Room in boutique hotel,Private room,40.74863,-73.98493,2,1.0,1.0,1.0,10,,1,0,1,0,1,1,1,0
-23198,38993616,Manhattan,Room in boutique hotel,Private room,40.7488,-73.98717,2,1.0,1.0,2.0,10,,1,0,1,0,1,1,1,0
-23199,38993679,Manhattan,Room in boutique hotel,Private room,40.75088,-73.98644,2,1.0,1.0,1.0,10,,1,0,1,0,1,1,1,0
+23196,38993493,Manhattan,Room in boutique hotel,Private room,40.74924,-73.98722,2,1.0,1.0,2.0,10,0,1,0,1,0,1,1,1,0
+23197,38993556,Manhattan,Room in boutique hotel,Private room,40.74863,-73.98493,2,1.0,1.0,1.0,10,0,1,0,1,0,1,1,1,0
+23198,38993616,Manhattan,Room in boutique hotel,Private room,40.7488,-73.98717,2,1.0,1.0,2.0,10,0,1,0,1,0,1,1,1,0
+23199,38993679,Manhattan,Room in boutique hotel,Private room,40.75088,-73.98644,2,1.0,1.0,1.0,10,0,1,0,1,0,1,1,1,0
 23200,38996102,Brooklyn,Entire rental unit,Entire home/apt,40.68788,-73.90799,6,1.0,3.0,3.0,164,1,1,0,1,1,1,1,0,0
 23201,38996829,Bronx,Private room in rental unit,Private room,40.84669,-73.90007,1,1.0,1.0,1.0,59,0,1,0,1,1,1,1,1,0
 23202,38997568,Queens,Private room in rental unit,Private room,40.69863,-73.80763,2,1.0,1.0,1.0,60,0,1,0,1,1,1,1,1,0
@@ -20334,7 +20334,7 @@
 23427,39337910,Queens,Private room in rental unit,Private room,40.7103,-73.82764,2,1.0,1.0,1.0,40,0,1,0,1,1,1,1,0,0
 23428,39340144,Brooklyn,Private room in rental unit,Private room,40.70381,-73.92679,1,1.0,1.0,1.0,50,0,0,0,1,1,1,1,0,0
 23429,39340734,Brooklyn,Private room in rental unit,Private room,40.67921,-74.00111,1,1.0,1.0,1.0,75,0,0,0,1,1,1,0,0,0
-23430,39340742,Queens,Entire rental unit,Entire home/apt,40.75832,-73.82947,1,1.0,1.0,1.0,10,,0,0,0,0,0,0,1,0
+23430,39340742,Queens,Entire rental unit,Entire home/apt,40.75832,-73.82947,1,1.0,1.0,1.0,10,0,0,0,0,0,0,0,1,0
 23431,39340820,Brooklyn,Private room in rental unit,Private room,40.71558,-73.95537,1,1.0,1.0,1.0,100,1,1,0,1,1,1,1,0,0
 23432,39341313,Brooklyn,Private room in rental unit,Private room,40.66175,-73.94866,1,1.0,1.0,1.0,45,0,1,0,1,1,1,1,0,0
 23433,39342683,Manhattan,Private room in rental unit,Private room,40.76172,-73.99169,2,1.0,1.0,1.0,149,1,1,0,1,1,1,1,0,0
@@ -20481,7 +20481,7 @@
 23616,39566015,Queens,Private room in residential home,Private room,40.76181,-73.93087,4,1.0,1.0,2.0,70,0,0,0,1,1,1,1,0,0
 23617,39569142,Queens,Private room in residential home,Private room,40.75951,-73.93176,3,1.0,1.0,2.0,73,0,0,0,1,1,1,1,0,0
 23618,39573289,Manhattan,Private room in rental unit,Private room,40.72179,-73.97959,1,1.0,1.0,1.0,80,0,0,0,1,1,1,1,0,0
-23619,39574087,Manhattan,Room in hotel,Private room,40.71918,-73.99123,2,1.0,1.0,1.0,10,,1,0,1,0,1,1,0,1
+23619,39574087,Manhattan,Room in hotel,Private room,40.71918,-73.99123,2,1.0,1.0,1.0,10,0,1,0,1,0,1,1,0,1
 23620,39575806,Brooklyn,Private room in rental unit,Private room,40.67913,-74.00889,1,1.0,1.0,1.0,80,0,1,0,1,1,1,1,0,0
 23622,39577706,Brooklyn,Shared room in residential home,Shared room,40.67958,-73.94352,3,2.0,1.0,3.0,30,0,1,0,1,1,1,1,0,0
 23623,39579710,Brooklyn,Shared room in residential home,Shared room,40.68187,-73.94485,3,2.0,1.0,3.0,30,0,1,0,1,1,1,1,0,0
@@ -26609,7 +26609,7 @@
 31387,49405043,Manhattan,Entire condominium (condo),Entire home/apt,40.72952,-73.9823,2,1.5,2.0,2.0,200,2,1,0,1,1,0,1,1,0
 31388,49405437,Queens,Private room in loft,Private room,40.75092,-73.85547,2,1.0,1.0,2.0,120,1,1,0,1,1,0,1,0,0
 31389,49405833,Brooklyn,Private room in rental unit,Private room,40.69937,-73.91956,1,1.0,1.0,1.0,36,0,1,0,1,1,1,1,0,0
-31390,49409612,Manhattan,Entire rental unit,Entire home/apt,40.77796,-73.96073,2,1.0,1.0,2.0,10,,1,0,1,1,1,0,0,0
+31390,49409612,Manhattan,Entire rental unit,Entire home/apt,40.77796,-73.96073,2,1.0,1.0,2.0,10,0,1,0,1,1,1,0,0,0
 31391,49416907,Brooklyn,Entire rental unit,Entire home/apt,40.71589,-73.96303,2,1.0,1.0,1.0,300,2,1,0,1,1,1,1,1,0
 31392,49418721,Queens,Entire rental unit,Entire home/apt,40.73614,-73.81431,2,1.0,1.0,1.0,69,0,0,0,1,1,1,1,0,0
 31394,49419996,Brooklyn,Entire rental unit,Entire home/apt,40.70467,-73.95103,2,1.0,1.0,1.0,169,1,1,0,1,1,1,1,0,0
@@ -27460,7 +27460,7 @@
 32527,50439472,Manhattan,Entire rental unit,Entire home/apt,40.70867,-74.00839,2,1.0,1.0,1.0,300,2,1,0,1,1,1,1,1,0
 32531,50442062,Brooklyn,Entire residential home,Entire home/apt,40.63294,-73.90211,2,1.0,1.0,1.0,130,1,1,0,1,1,0,1,0,0
 32532,50442598,Brooklyn,Entire condominium (condo),Entire home/apt,40.68017,-73.96139,4,1.0,1.0,1.0,325,2,1,0,1,1,1,1,0,0
-32533,50444487,Manhattan,Entire rental unit,Entire home/apt,40.77586,-73.96099,2,1.0,1.0,1.0,10,,1,0,1,1,1,0,0,0
+32533,50444487,Manhattan,Entire rental unit,Entire home/apt,40.77586,-73.96099,2,1.0,1.0,1.0,10,0,1,0,1,1,1,0,0,0
 32534,50445520,Brooklyn,Entire condominium (condo),Entire home/apt,40.72559,-73.94164,2,1.0,1.0,1.0,169,1,0,0,1,1,0,1,0,0
 32535,50446140,Manhattan,Entire rental unit,Entire home/apt,40.75997,-73.99872,2,1.0,1.0,1.0,110,1,1,0,1,1,1,1,1,0
 32536,50446274,Manhattan,Private room in rental unit,Private room,40.80216,-73.96369,2,1.0,1.0,1.0,70,0,0,0,1,1,0,1,0,0
@@ -28935,7 +28935,7 @@
 34446,51822048,Queens,Private room in townhouse,Private room,40.76625,-73.87243,2,0.0,1.0,1.0,38,0,1,0,1,0,1,1,0,0
 34447,51822545,Manhattan,Entire serviced apartment,Entire home/apt,40.76483,-73.95916,3,1.0,1.0,2.0,259,2,1,0,1,1,1,1,1,0
 34448,51824365,Brooklyn,Entire rental unit,Entire home/apt,40.68126,-73.88289,3,1.0,2.0,2.0,164,1,0,0,0,1,0,1,0,0
-34450,51824986,Manhattan,Entire rental unit,Entire home/apt,40.8196,-73.95453,2,1.0,1.0,1.0,10,,0,0,1,1,0,0,0,0
+34450,51824986,Manhattan,Entire rental unit,Entire home/apt,40.8196,-73.95453,2,1.0,1.0,1.0,10,0,0,0,1,1,0,0,0,0
 34453,51826524,Brooklyn,Entire rental unit,Entire home/apt,40.645416,-73.944351,6,1.0,3.0,3.0,149,1,0,0,0,1,1,0,0,0
 34455,51826933,Manhattan,Entire rental unit,Entire home/apt,40.79685,-73.9621,6,2.0,2.0,5.0,579,3,1,0,0,1,0,1,1,0
 34456,51826952,Manhattan,Entire rental unit,Entire home/apt,40.73506,-73.98198,3,1.0,1.0,1.0,200,2,1,0,1,1,1,1,1,0
